@@ -39436,6 +39436,16 @@ Block/Checkout/Address/SelectTest.php
 Checkout/Address/SelectTest.php
 Address/SelectTest.php
 SelectTest.php
+dev/tests/integration/testsuite/Magento/Multishipping/Model/Checkout/Type/MultishippingOnlineCarriersTest.php
+tests/integration/testsuite/Magento/Multishipping/Model/Checkout/Type/MultishippingOnlineCarriersTest.php
+integration/testsuite/Magento/Multishipping/Model/Checkout/Type/MultishippingOnlineCarriersTest.php
+testsuite/Magento/Multishipping/Model/Checkout/Type/MultishippingOnlineCarriersTest.php
+Magento/Multishipping/Model/Checkout/Type/MultishippingOnlineCarriersTest.php
+Multishipping/Model/Checkout/Type/MultishippingOnlineCarriersTest.php
+Model/Checkout/Type/MultishippingOnlineCarriersTest.php
+Checkout/Type/MultishippingOnlineCarriersTest.php
+Type/MultishippingOnlineCarriersTest.php
+MultishippingOnlineCarriersTest.php
 dev/tests/integration/testsuite/Magento/Multishipping/Model/Checkout/Type/MultishippingTest.php
 tests/integration/testsuite/Magento/Multishipping/Model/Checkout/Type/MultishippingTest.php
 integration/testsuite/Magento/Multishipping/Model/Checkout/Type/MultishippingTest.php

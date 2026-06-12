@@ -343,7 +343,7 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 .ssi$
 .svg
 .svg
-.svghttp://pitchfork.com/robots.txt
+.svghttp://dinotim.com/robots.txt
 .swf$
 .swf$
 .sxg
@@ -788,7 +788,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /agency/author/*?
 /agent-templates/search?
 /agent-templates/standalone
-/ai-image-generator
 /ai-search
 /ai/generation/asset
 /aisearch
@@ -960,7 +959,7 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /business/aisearch
 /business/availability
 /business/availability/?context
-/business/availability/?context=http://jetbrains.com/robots.txt
+/business/availability/?context=http://help.twitter.com/robots.txt
 /business/availability?context
 /business/availability?context=
 /business/search
@@ -987,7 +986,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /cart.js
 /cas-redirect
 /cat/*failedPage=
-/category
 /cbp-*.html
 /ces/web/modules
 /ces/web/modules/*.css
@@ -1150,7 +1148,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /device-view
 /diff
 /directory
-/discover
 /discovered
 /dl
 /docs/product
@@ -1336,7 +1333,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /events/xml
 /examshow/*
 /experiment
-/explore
 /explore/testing
 /export
 /express/
@@ -1351,7 +1347,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /feature
 /feature-requests/new
 /featured
-/featured-collections
 /featuredby
 /features
 /feed
@@ -1446,7 +1441,7 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /goldlog$
 /group
 /group/
-/gtc/gtc-chatbot/*http://myspace.com/robots.txt
+/gtc/gtc-chatbot/*http://nymag.com/robots.txt
 /hack
 /hardware/*/cart
 /havadurumu/
@@ -1490,7 +1485,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /iine_entry-*.html
 /ikea-family/cancel-signup
 /ikea-family/home-project-planner
-/image-
 /image-*.html
 /image-editorial
 /image-generated
@@ -1521,7 +1515,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /initLoad$
 /inline$
 /insights
-/inspire
 /install.php
 /internal+no-explicit
 /internaluseronly
@@ -1720,7 +1713,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /music/*/Search/
 /music/*/search/
 /music/cart
-/music/featured-collections
 /music/orders
 /music/track-
 /music/user
@@ -1737,12 +1729,10 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /newest/*atom
 /newest/*rss
 /newest/*xml
-/news-release/*.html?pdf=1
 /newsearch/
 /newsletter
 /nextpodcastlist/*
 /nightly-news
-/no-referrer-when-downgradehttp://uk.linkedin.com/robots.txt
 /no-search-results
 /node
 /node/add
@@ -2270,7 +2260,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /tarball
 /techgadgets/*
 /templates/search?query=
-/terms
 /terms/specified
 /test
 /test-template
@@ -2337,7 +2326,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /undefined
 /undefined$
 /unitrun
-/unlimited
 /unsubscribe/
 /update.php
 /upload/analyse
@@ -2406,7 +2394,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /video/cart
 /video/checkout
 /video/clip-
-/video/featured
 /video_pins
 /videolist-*.html
 /videolist.html
@@ -2541,8 +2528,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 ?*&keepEmbedCode=
 ?*&keyboard=
 ?*&ls=
-?*&noheader
-?*&sfdebug
 ?*/
 ?*/*ref
 ?*002/*0902
@@ -2560,7 +2545,7 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 ?*adxarea=
 ?*ajax=
 ?*ajs_event
-?*apikey*http://stupidhackathon.github.io/robots.txt
+?*apikey*http://w3c.github.io/robots.txt
 ?*app
 ?*attachment_id
 ?*author
@@ -3018,7 +3003,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 ?nextUrl=*
 ?nid=
 ?no-cache=
-?noheader
 ?nomobile*
 ?noredirect=true&config=standalone
 ?np=*
@@ -3152,7 +3136,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 ?service=Ajax
 ?service=ajax
 ?set_mobile=
-?sfdebug
 ?share=
 ?showAllGroups=
 ?show_error=true
@@ -3648,7 +3631,6 @@ Help
 HelpContent
 HelpProxy
 Home-
-Home/404Page
 HotelBookingController
 HotelBookingRoomSelectionHtml
 HotelBookingRoomSelectionJson
@@ -3745,8 +3727,6 @@ InvoicePayment
 IpadInterstitial
 JP/support/public/mt/tac/100/1002347/techtip_conventions.shtml
 JSErrorRecord
-JSWidget/
-JSWidgetFeed/
 Jai-Mrug*
 Japan/DirectX/default.asp?
 Job
@@ -3763,7 +3743,6 @@ Jobs/Glassdoor-Jobs-E100431.htm
 Jobs/Search
 Jobs/title
 JoinPlus
-JsonData/
 JsonServiceController
 JustForYouGuide
 LFE/Live.controls.sharedpages/error.aspx
@@ -4041,18 +4020,15 @@ NVisitor4Ajax.nhn
 NVisitorgp4Ajax.naver
 NVisitorgp4Ajax.nhn
 NativeAds
-Ne/SocialMediaActivity/LogJSWidgetLinkClick
 NetPromoterPopup
 NewMessage
 NewOwners
 NewTopic
-News/Index
 News/XT
 News/Xt
 NewsLetterPlus
 NewsPass
 NewsPlus
-NewsRoom/ReleaseNg/
 NewsletterNews
 NewsletterPopupBudgetRomanticFamilyPopup
 NewsletterPopupNewsletterPopup1
@@ -4407,7 +4383,6 @@ Stellen/title
 StickerRequestAjax
 StockAvailSearchForm
 StockAvailSearchForm=
-StockQuote/
 Structure
 Structure/VA
 Structure/cblast/cblast.cgi
@@ -4418,7 +4393,6 @@ StyleGuideUI/static-3.100
 StyleGuideUI/static-3.109
 StyleGuideUI/static-3.136
 StyleGuideUI/static-3.98
-SubscribeToRss/
 SubscriptionLander
 SubscriptionPopup
 Summer06Widget
@@ -4458,8 +4432,6 @@ Themes/Client/app/img/favicons/manifest.json
 ThirdPartyRedirect
 ThorHammer
 TodaysLowestFaresAjax
-Tr/SocialMediaActivity/LogJSWidgetLinkClick
-Tracker?data=*
 Tracking/VerifyHuman
 TravelAdvice
 TravelMap-
@@ -4587,7 +4559,6 @@ WriteReviewShade
 WriteReviews
 XCSA
 Xhr
-Yandex
 Zeige-Job?
 ZendeskRedirector
 ZendeskSSO
@@ -4819,7 +4790,6 @@ a-guide-to-discreetly-traveling-with-weed-1850432640
 a-knight-s-tale
 a-league-of-their-own
 a-madea-christmas
-a-savoir-en-france
 a-visual-reference-for-six-basic-knife-cuts-1702149571
 a-womans-guide-to-learning-to-love-masturbation-1713950621
 a/*.*/about
@@ -4965,6 +4935,7 @@ account-login
 account-prefs-change
 account-settings
 account-setup
+account-verification
 account.json
 account/
 account/accomplishments
@@ -5295,6 +5266,7 @@ aid
 aihub/tfhub
 aim/
 air-fry-some-store-bought-bacon-bits-1850079590
+aistudio-static
 aistudio/*favicon*.png$
 ajah
 ajax
@@ -5447,7 +5419,7 @@ apdata
 api
 api*.do
 api*?hl=
-api*?hl=http://weforum.org/robots.txt
+api*?hl=http://adssettings.google.com/robots.txt
 api-keys
 api-proxy
 api-web
@@ -5482,7 +5454,7 @@ api/getrecjobs
 api/graphql
 api/historical
 api/html
-api/http://snapchat.com/robots.txt
+api/http://creativecommons.org/robots.txt
 api/internal/*/location
 api/jobPostings/jobs
 api/maps/
@@ -5617,7 +5589,6 @@ ar-ar/search
 ar-ar/searchresults
 ar-eg/
 ar-sa/
-ar/
 ar/$
 ar/*
 ar/Download
@@ -5800,7 +5771,6 @@ astronomy/moon/distance.html?year=2027
 astronomy/moon/distance.html?year=2028
 astronomy/moon/light.html?
 astronomy/moon/light.html?iso
-async
 async-create-search-page-state
 async_info/base_data
 at
@@ -6023,7 +5993,7 @@ audible-hug-alert
 audible-sample-player
 audible_programs=
 audiblehug
-audio-edition-podcast/*/index.xmlhttp://evernote.com/robots.txt
+audio-edition-podcast/*/index.xmlhttp://ecrs.com/robots.txt
 audio.html
 audio?performer=1&q=
 audio_news
@@ -6318,7 +6288,6 @@ bfp/search
 bg
 bg-BG/$
 bg-bg/
-bg/
 bg/Download
 bgmt
 bgpoxy
@@ -6338,7 +6307,6 @@ bin/search.go
 bin/search.py
 bin/telegraph/recombee-config
 bing-site-safety
-bingbot
 biocollections/?term=
 bioproject/?term=
 biosample/?term=
@@ -6438,7 +6406,7 @@ blog/*?text=
 blog/*sitemap.xml$
 blog/*utm_source=
 blog/.
-blog/.html.*http://i0.wp.com/robots.txt
+blog/.html.*http://samsung.com/robots.txt
 blog/10-lessons-from-an-engineering-manager/$
 blog/2025-shifting-roles-report/$
 blog/23-prototyping-resources-to-bookmark-right-now/$
@@ -7096,6 +7064,7 @@ blog/state-of-design-systems-2018/$
 blog/state-of-the-designer-2026/$
 blog/state-of-the-designer-report-23/$
 blog/stay-in-the-flow-with-redesigned-comments/$
+blog/steal-this-template-bring-a-user-persona-to-life-with-figma-weave/$
 blog/stitch-fix-accelerates-design-sprints-by-collaborating-in-figma/$
 blog/store-discount-reviews
 blog/strategy/$
@@ -7315,7 +7284,6 @@ board_activity
 board_activity_comment
 boardinvited
 boerse/data
-bons-plans
 boo-2-a-madea-halloween
 boo-a-madea-halloween
 book
@@ -7393,7 +7361,6 @@ bricks/image
 bridesmaids
 bring-back-dry-humping-1727214132
 bring-these-snacks-to-your-next-protest-1843825938
-brouillon
 browse
 browse-2
 browse-restricted-websites-with-virtual-browser-146724
@@ -8096,7 +8063,7 @@ cdn-cgi
 cdn-cgi/
 cdn-cgi/bm/cv
 cdn-cgi/challenge-platform
-cdn-cgi/http://eji.org/robots.txt
+cdn-cgi/http://medium.com/robots.txt
 cdn-cgi/images/trace
 cdn-cgi/l/email-protection
 cdn-cgi/rum
@@ -8104,7 +8071,7 @@ cdn-cgi/scripts
 cdn-cgi/speculation
 cdn-cgi/styles
 cdn-cgi/zaraz
-cdn-cgi/zaraz/http://cdtfa.ca.gov/robots.txt
+cdn-cgi/zaraz/http://dell.com/robots.txt
 cdn-proxy/pim
 cdn-proxy/px
 cdn.jwplayer.com/previews
@@ -8132,7 +8099,7 @@ cgi-bin/koha/
 cgi-bin/loginpage
 cgi-bin/search.fpl
 cgi-bin/wx
-cgi-binhttp://baidu.com/robots.txt
+cgi-binhttp://ifttt.com/robots.txt
 cgi-local
 cgi-mad/
 cgi-pct/
@@ -8262,7 +8229,7 @@ checkForm=
 checkout
 checkout-external
 checkout/package
-checkouthttp://sintradaytrips.com/robots.txt
+checkouthttp://moderncalculators.com/robots.txt
 checkoutnow
 checkouts
 checkpoint
@@ -9043,7 +9010,7 @@ confirm_unsubscribe
 conflagexp
 connect
 connect/@
-connect/http://oreilly.com/robots.txt
+connect/http://blog.twitter.com/robots.txt
 connect/invite
 connect/social-intranet.html
 connections
@@ -9207,7 +9174,7 @@ content/search
 content/telegraph
 content/temp/*
 content/websites/languages
-content/websites/us/en/noindex/*http://ebay.com/robots.txt
+content/websites/us/en/noindex/*http://xcelab.net/robots.txt
 content_reporting
 content_title=
 contest
@@ -9409,7 +9376,6 @@ cs-cz/
 cs-cz/lp$
 cs-cz/lp/contact-us
 cs-cz/lp/homepage$
-cs/
 cs/android/collections
 cs/android/search
 cs/firefox/collections
@@ -9442,7 +9408,6 @@ ctm
 culturalinstitute/images
 culturalinstitute/sitemaps
 culturalinstitute/stella
-culture
 culture/404_en.htm
 culture/projects/projects
 culture/staff/staff
@@ -9587,7 +9552,6 @@ d=pro
 da-DK/$
 da-dk*/lp
 da-dk/
-da/
 da/kb
 da/search/
 da/search/default.mi
@@ -11045,6 +11009,7 @@ easy-shop
 easyrenewal
 ebay/cronus
 ebaylive/host
+ebaylive/seller
 ebook
 ebooklets
 ebooks
@@ -11152,7 +11117,6 @@ el-gr/
 el-gr/lp$
 el-gr/lp/contact-us
 el-gr/lp/homepage$
-el/
 el/android/collections
 el/android/search
 el/firefox/collections
@@ -11166,7 +11130,6 @@ el/search/default.mi
 elastictranscoder/2012-09-25
 elearning/
 election-results-data
-elections/resultats
 electrode/api/logger
 element/*goodbye
 element/?
@@ -11882,10 +11845,6 @@ en-zw
 en-zw/lp$
 en-zw/lp/contact-us
 en-zw/lp/homepage$
-en/JSWidget/
-en/JSWidgetFeed/
-en/StockQuote/
-en/Tracker?data=*
 en/US/docs/general/Test
 en/US/swassets/
 en/US/swassets/sw274/sitewide_country_language_selector.html
@@ -11908,7 +11867,6 @@ en/funding?
 en/group
 en/help/126238-pricing-faqs-legacy-guide
 en/help/142642-old-vs-new-pricing
-en/internaljustice/files
 en/library?
 en/microsoft-365
 en/microsoft-365/
@@ -13780,7 +13738,6 @@ es-vg
 es-vi
 es-xl/
 es-xl/motivator/
-es/
 es/$
 es/%C3%BAnete
 es/*
@@ -14107,7 +14064,6 @@ estimates
 estimates/*/client
 et-EE/$
 et-ee/
-et/
 et_gdpr_callback_js/*
 et_gdpr_js/minify-1,v-14.cms*
 et_onetap_signin_js/*
@@ -14323,7 +14279,7 @@ fastanswers
 fatalerror.html
 faves-i_love_u_get_away_from_me
 favicon.ico
-favicon.icohttp://gizmodo.com/robots.txt
+favicon.icohttp://blog.google/robots.txt
 favorit-hinzufuegen
 favorit-loeschen
 favorites?
@@ -14456,7 +14412,6 @@ fi-fi/
 fi-fi/lp$
 fi-fi/lp/contact-us
 fi-fi/lp/homepage$
-fi/
 fi/*
 fi/Download
 fi/android/collections
@@ -14522,7 +14477,7 @@ files/resources
 fileview
 filing
 filing/free-file-fillable-forms/free-file-fillable-forms-support
-filing/free-file-fillable-forms/free-file-fillable-forms-support-2http://academic.oup.com/robots.txt
+filing/free-file-fillable-forms/free-file-fillable-forms-support-2http://iso.org/robots.txt
 filter.searchKeyword=
 filter/
 filter/tips
@@ -14554,7 +14509,7 @@ find-the-right-bpm-for-your-perfect-running-playlist-wi-5927390
 find-the-right-replacement-nut-or-bolt-via-photo-using-1827785812
 find-the-wifi-password-for-almost-any-airport-lounge-us-1841119770
 find/
-find/*http://popsci.com/robots.txt
+find/*http://frontiersin.org/robots.txt
 findCityAjax.htm
 finetune
 fios
@@ -14573,6 +14528,7 @@ five-umami-bombs-you-should-always-have-stocked-in-your-1794269578
 five-ways-to-fix-a-cracked-window-ranked-from-the-wors-1850695935
 five-years-of-figma/$
 fix-a-credit-card-that-wont-swipe-with-a-piece-of-tape-5871616
+fix-emails
 fix-it
 fix-sliding-doors-that-wont-close-with-a-couple-magnets-1642225618
 fix-static-and-popping-on-stereo-volume-knobs-342728
@@ -16412,7 +16368,7 @@ forum/online
 forum/posts
 forum/profile
 forum/search
-forum/ucp.phphttp://atlasobscura.com/robots.txt
+forum/ucp.phphttp://embassybel.ru/robots.txt
 forum/viewtopic.php
 forum/whats-new
 forumTeaser
@@ -16567,6 +16523,7 @@ fr-fr/blog/figma-buzz/$
 fr-fr/blog/figma-design/$
 fr-fr/blog/figma-draw-scatter-brushes/$
 fr-fr/blog/figma-draw/$
+fr-fr/blog/figma-make/$
 fr-fr/blog/figma-mcp/$
 fr-fr/blog/figma-on-figma-evolving-our-visual-language/$
 fr-fr/blog/figma-sites/$
@@ -17278,14 +17235,7 @@ fr/*locationQuery=
 fr/*max=
 fr/*min=
 fr/*my_etsy=
-fr/Home/404Page
-fr/JSWidget/
-fr/JSWidgetFeed/
-fr/Ne/
 fr/README.md
-fr/StockQuote/
-fr/Tr/
-fr/Tracker?data=*
 fr/about
 fr/account
 fr/acq
@@ -17311,7 +17261,6 @@ fr/c/*price_bucket=
 fr/c/*search_type=
 fr/c/*ship_to=
 fr/c?*attr_*=
-fr/ca/
 fr/campaigns
 fr/cart
 fr/client-clearing
@@ -17378,7 +17327,6 @@ fr/index.php/user/password
 fr/index.php/user/register
 fr/integrations
 fr/invites/buy
-fr/js/
 fr/kb
 fr/label
 fr/layer2
@@ -17421,7 +17369,6 @@ fr/no-follow
 fr/node
 fr/ott
 fr/people
-fr/ph/
 fr/phenom
 fr/player
 fr/playlist
@@ -17479,7 +17426,6 @@ fr/total-leadership
 fr/transactions
 fr/treasury
 fr/upload
-fr/us/
 fr/user
 fr/user/login
 fr/user/logout
@@ -17489,7 +17435,6 @@ fr/verify
 fr/vimeo-academy
 fr/web.config
 fr/your
-fr/zi/
 fr_fr
 fr_fr/creer
 fr_fr/decouvrir
@@ -17503,6 +17448,7 @@ france/ie/default.asp?
 france/mnp_utility.mspx?
 franchise/
 free
+free-account-onboarding
 free-report
 free-tools/plagiarism-checker/?q=
 free-trial
@@ -17555,7 +17501,7 @@ fy-NL/firefox/collections/mozilla
 fy-NL/firefox/collections/mozilla/$
 fy-NL/firefox/search
 g
-g/4arE9Chttp://firebase.google.com/robots.txt
+g/4arE9Chttp://flickr.com/robots.txt
 g/api
 ga-actions/formie/forms/refresh-tokens
 ga/p
@@ -18027,7 +17973,6 @@ hd
 he-il/
 he-il/search
 he-il/searchresults
-he/
 he/android/collections
 he/android/search
 he/firefox/collections
@@ -18080,7 +18025,7 @@ health/drugs/ozempic-for-weight-loss
 health/echelon-firmware-subscription-update
 health/equipment-every-home-gym-needs
 health/everything-you-get-with-garmin-connect-plus
-health/files/rhpthttp://wattpad.com/robots.txt
+health/files/rhpthttp://inc.com/robots.txt
 health/first-differences-i-noticed-after-upgrading-to-a-peloton-bike-plus
 health/fitbit-charge-6-review
 health/fitbit-new-app-preview-impressions
@@ -18332,7 +18277,6 @@ hi-in/ux-design-tool/$
 hi-in/web-design/$
 hi-in/web-development/$
 hi-in/wireframe-tool/$
-hi/
 hi/search/
 hi/search/default.mi
 hi_in
@@ -19019,53 +18963,53 @@ html/story
 html5
 http
 http2_data
-http://1drv.ms/robots.txt
-http://aasciences.ac.ke/robots.txt
-http://aljazeera.com/robots.txt
+http://15721.courses.cs.cmu.edu/robots.txt
+http://alexa.com/robots.txt
+http://aliexpress.com/robots.txt
+http://amazon.co.jp/robots.txt
+http://amazon.co.uk/robots.txt
+http://amazon.com/robots.txt
+http://amazon.de/robots.txt
+http://amazon.es/robots.txt
+http://amazon.fr/robots.txt
+http://amazon.in/robots.txt
 http://amazon.it/robots.txt
-http://apis.google.com/robots.txt
-http://aws.amazon.com/robots.txt
-http://blogger.com/robots.txt
-http://calendar.google.com/robots.txt
-http://census.gov/robots.txt
-http://dailymotion.com/robots.txt
-http://dl.acm.org/robots.txt
-http://eff.org/robots.txt
-http://eur-lex.europa.eu/robots.txt
-http://europarl.europa.eu/robots.txt
-http://fb.com/robots.txt
-http://fbi.gov/robots.txt
-http://forms.office.com/robots.txt
-http://google.it/robots.txt
-http://google.nl/robots.txt
-http://hackernoon.com/robots.txt
-http://heise.de/robots.txt
-http://heylink.me/robots.txt
-http://howtogeek.com/robots.txt
-http://i.ytimg.com/robots.txt
-http://inc.com/robots.txt
-http://lastpass.com/robots.txt
-http://lefigaro.fr/robots.txt
-http://matrix.to/robots.txt
-http://meta.com/robots.txt
-http://poynter.org/robots.txt
-http://rantanps.blogspot.com/robots.txt
-http://regionalevakschilders.be/robots.txt
-http://reuters.com/robots.txt
-http://sciencemag.org/robots.txt
-http://shopify.com/robots.txt
-http://squarespace.com/robots.txt
-http://stock.adobe.com/robots.txt
-http://wa.me/robots.txt
-http://wp.me/robots.txt
-http://yandex.ru/robots.txt
+http://ameblo.jp/robots.txt
+http://apps.apple.com/robots.txt
+http://economist.com/robots.txt
+http://en.m.wikipedia.org/robots.txt
+http://gist.github.com/robots.txt
+http://govostis.gr/robots.txt
+http://groupon.com/robots.txt
+http://healthtips1dr.blogspot.com/robots.txt
+http://img1.wsimg.com/robots.txt
+http://irishtimes.com/robots.txt
+http://kickstarter.com/robots.txt
+http://namecheap.com/robots.txt
+http://newsinitiative.withgoogle.com/robots.txt
+http://patreon.com/robots.txt
+http://pixiv.net/robots.txt
+http://python.org/robots.txt
+http://seekingalpha.com/robots.txt
+http://sites.google.com/robots.txt
+http://smithsonianmag.com/robots.txt
+http://static.wixstatic.com/robots.txt
+http://techradar.com/robots.txt
+http://thelancet.com/robots.txt
+http://threads.net/robots.txt
+http://translate.google.com/robots.txt
+http://upload.wikimedia.org/robots.txt
+http://use.fontawesome.com/robots.txt
+http://vox.com/robots.txt
+http://w3techs.com/robots.txt
+http://weebly.com/robots.txt
+http://wish.com/robots.txt
 https://player.cnevids.com
 https:/www.alibaba.com
 hu
 hu-HU/$
 hu-hu
 hu-hu/
-hu/
 hu/Download
 hu/android/collections
 hu/android/search
@@ -19096,7 +19040,6 @@ hubs_post-cta=*&utm_
 hubs_signup-cta
 hy-AM/$
 hy-am/
-hy/
 hy_am
 hybe_stories/
 hz/contact-us/ajax/initiate-trusted-contact
@@ -19212,7 +19155,6 @@ id-id/solusi/pembuat-spanduk/$
 id-id/solusi/pembuat-spanduk/linkedin/$
 id-id/solusi/pembuat-website-ai/$
 id-id/templates/$
-id/
 id/account
 id/ada-lowongan
 id/ada-lowongan/job-posts
@@ -19780,7 +19722,7 @@ integrations/facebook/glassdoor/eep
 intelligencer/amp
 intent
 interactive
-interactive*http://sxsw.com/robots.txt
+interactive*http://fda.gov/robots.txt
 interactive/reading-preference
 interactives/sponsor-story
 intern
@@ -19893,7 +19835,6 @@ is-it-safer-to-place-your-ps5-or-xbox-series-x-vertical-1848090814
 is-my-boyfriend-secretly-using-my-sex-toys-1820019071
 is-my-daughter-too-obsessed-with-her-bff-1846701892
 is-your-friend-sleep-it-off-drunk-or-call-911-drunk-1725380214
-is/
 isapi/
 isbn
 isdh/drafts_local
@@ -20060,7 +20001,6 @@ it-it/tools/$
 it-it/ventures/$
 it-it/web-design/$
 it-s-complicated
-it/
 it/*
 it/*/media/oembed
 it/*?order=
@@ -20774,7 +20714,6 @@ ja-jp/wireframe-tool/$
 ja-jp/wp-admin
 ja-jp/wp-admin/admin-ajax.php
 ja-jp/wp-content/uploads/sites/13/documents
-ja/
 ja/%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3
 ja/%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3
 ja/%E3%82%B5%E3%82%A4%E3%83%B3%E3%82%A4%E3%83%B3
@@ -21436,7 +21375,6 @@ ko-kr/webinar/des-to-comp-mcp-ko-video/$
 ko-kr/webinars/des-to-code-mcp-ko/$
 ko-kr/webinars/improving-ai-code-gen/$
 ko-kr/wireframe-tool/$
-ko/
 ko/$
 ko/%EA%B0%80%EC%9E%85
 ko/%EA%B3%A0%EC%9A%A9-%EC%A4%91
@@ -21571,7 +21509,7 @@ kui=
 kw/payroll/
 kwanzaa-spotlight
 l
-l-http://freelancer.com/robots.txt
+l-http://independent.co.uk/robots.txt
 l.php
 la-la-land
 lab/neurodetector
@@ -21848,6 +21786,7 @@ locale/overlay_secure
 locale=zh_CN
 localize
 localservices
+localservices/coupon
 localservices/signup/$
 localservices/signup/?
 locateservice_js/*
@@ -21948,10 +21887,10 @@ lst/ng
 lstng
 lt
 lt-lt/
-lt/
 lt/$
 lt/*
 lt/Download
+ltdn-optout
 lu/*
 lu/agb
 lu/agb-0718
@@ -21984,7 +21923,6 @@ lux
 lv
 lv-LV/$
 lv-lv/
-lv/
 lv/Download
 lvx
 m
@@ -22201,6 +22139,7 @@ maps?sid=
 mapslt?
 mapspro
 mapview
+mar-optout
 marathi/
 marinate-all-of-your-pork-in-shio-koji-1831238644
 market
@@ -22214,13 +22153,20 @@ marketing
 marketing-cms
 marketing-containers
 marketing-sitemap.xml
+marketing/28-free-fonts-beautify-content?hubs_content=blog.hubspot.com%2Fmarketing%2Ftypography-terms-introduction&hubs_content-cta=35+of+the+Best+Free+Fonts+You+Should+Download
+marketing/ai-citation-tracking-tools?spm=a2ty_o01.29997173.0.0.34a4517116rjxv=&c2f6250b_page=2
 marketing/buy-instagram-followers?_ga=2.10783287.202073175.1647352571-1712564162.1625774605
+marketing/funny-weird-interview-questions?hubs_content=blog.hubspot.com/marketing/how-to-choose-blogging-post-format-ht&hubs_content-cta=15%20Fun%2C%20Weird%2C%20%26%20Unexpected%20Interview%20Questions%20(With%20Sample%20Answers)
+marketing/gain-instagram-followers?hubs_content=blog.hubspot.com/marketing/marketing-plan-template-generator&hubs_content-cta=increase%20your%20following
 marketing/get-more-facebook-likes?_ga=2.207254484.613338208.1620124416-494221050.1620124416&hubs_content=blog.hubspot.com/marketing/facebook-live-guide&hubs_content-cta=check
+marketing/get-more-facebook-likes?_ga=2.207254484.613338208.1620124416-494221050.1620124416&hubs_content=blog.hubspot.com/marketing/facebook-live-guide&hubs_content-cta=check%20out%20this%20guide
 marketing/gif-websites?hubs_content=blog.hubspot.com%2Fmarketing%2Fbest-chrome-extensions&hubs_content-cta=animated%20GIFs
 marketing/help
 marketing/how-to-promote-your-youtube-channel?hubs_content=blog.hubspot.com/marketing/youtube-seo&hubs_content-cta=promote
+marketing/instagram-shadowban?hubs_content=blog.hubspot.com%2Fmarketing&hubs_content-cta=Instagram%20Shadowban%20Is%20Real%3A%20How%20to%20Test%20for%20%26%20Prevent%20It
 marketing/instagram-shadowban?hubs_content=blog.hubspot.com/marketing&hubs_content-cta=Instagram
 marketing/local-seo-stats?hubs_content=blog.hubspot.com/marketing/local-seo&hubs_content-cta=46-of-all-google-searches-are-looking-for-local-information
+marketing/personalized-calls-to-action-convert-better-data?hubs_content=blog.hubspot.com%2Fmarketing%2Fcall-to-action-examples&hubs_content-cta=personalized-ctas-perform-202-better&ref=ghost.nine.am
 marketing/personalized-calls-to-action-convert-better-data?hubs_content=blog.hubspot.com/marketing/call-to-action-examples&hubs_content-cta=personalized-ctas-perform-202-better
 marketing/state-of-ai-report?hubs_content=www.hubspot.com/products/artificial-intelligence&hubs_content-cta=The
 marketing/state-of-consumer-trends-report?hubs_content=blog.hubspot.com/marketing/how-consumers-learn-about-products&hubs_content-cta=2023%20State%20of%20Consumer%20Trends%20Survey
@@ -22623,7 +22569,7 @@ mre/*.jpg$
 mre/*.js$
 mre/*.pdf$
 mre/*.png$
-mre/*.zip$http://accidentinjurylawyers.claims/robots.txt
+mre/*.zip$http://gov.uk/robots.txt
 mre/*?
 mre/*@@configuracoes_view
 mre/*@@download/file$
@@ -22640,7 +22586,6 @@ mre/*view$
 mre/@@search
 ms-MY/$
 ms-my/
-ms/
 ms_my/buat
 msa
 msclkid=
@@ -22667,7 +22612,7 @@ multifamily-knowledge-center
 multiproduct
 multivu
 munin
-munin*http://flaticon.com/robots.txt
+munin*http://podcasters.spotify.com/robots.txt
 muse/identity/v2/identity.js
 museumdays/accounts
 mushroom-garum-recipe-1850994225
@@ -22892,7 +22837,6 @@ nb-NO/firefox/collections/mozilla
 nb-NO/firefox/collections/mozilla/$
 nb-NO/firefox/search
 nb-no/
-nb/
 nb_no/grafer
 nb_no/skape
 nbr/info/search.html?
@@ -23008,7 +22952,6 @@ news-events/events-calendar/2018/03/ninth-annual-african-consumer-protection-dia
 news-events/events-calendar/2019/05/tenth-annual-african-consumer-protection-dialogue-conference
 news-insider$
 news-redirect/*
-news-release/
 news/
 news/*/$
 news/*?page=
@@ -23054,9 +22997,7 @@ newsletters/*
 newsletters/kiosk
 newspaper/archive
 newsroom/$
-newsroom/ctr
 newsroom/dae
-newsroom/rss/
 newsround
 newssearch
 newsstand
@@ -23200,7 +23141,6 @@ nl-nl/ventures/$
 nl-nl/webdesign/$
 nl-nl/webontwikkeling/$
 nl-nl/wireframe-tool/$
-nl/
 nl/*
 nl/*/media/oembed
 nl/*?order=
@@ -23360,7 +23300,6 @@ nn-NO/firefox/collections/4757633/$
 nn-NO/firefox/collections/mozilla
 nn-NO/firefox/collections/mozilla/$
 nn-NO/firefox/search
-nn/
 no
 no-en*/listing/*/favoriters
 no-en*/people/*/circle
@@ -23423,7 +23362,6 @@ no-follow
 no-joe-biden-isnt-8-feet-tall-and-other-camera-tricks-1846822104
 no-no*/lp
 no-you-cannot-make-the-inside-of-burrata-with-mozzarel-1848784018
-no/
 no/*
 no/Download
 no/en/*.PDF
@@ -23818,7 +23756,7 @@ p/*/victory?
 p/*/wiki/*/edit
 p/*/wiki/*/history
 p/*/wiki/browse_tags
-p/*http://sciencedaily.com/robots.txt
+p/*http://socialimpact.youtube.com/robots.txt
 p/*surveyopen
 p/*thm=
 p/60
@@ -24143,6 +24081,7 @@ paid-content/news/what-americans-pay-for-internet-in-2026-and-how-xfinity-helps-
 paid-content/news/why-a-reliable-fiber-powered-network-from-xfinity-is-the-ultimate-solution-for-home-wi-fi
 paid-content/news/why-tax-filers-are-choosing-h-r-block-this-season
 paid-posts
+paid-transfers-buyer-survey
 pancake-bread-pretty-much-makes-itself-1850507100
 panel
 panelweb
@@ -24157,6 +24096,7 @@ parental-passcode
 parents/activity-finder
 parents/search
 paribus-the-app-that-automatically-refunds-price-drops-1773195386
+parking.php4
 parliament/public/traineeship/secured/
 parliament/public/transltraineeship/secured
 parsely-api-endpoint
@@ -24517,7 +24457,6 @@ pl-pl/tools/$
 pl-pl/tworzenie-stron-internetowych/$
 pl-pl/tworzenie-szkieletow/$
 pl-pl/ventures/$
-pl/
 pl/*
 pl/*?order=
 pl/*color=
@@ -24663,6 +24602,7 @@ plus/experience/*/series
 plus/experience/dreamforce_2025_x_test
 plus/r
 plusinstall
+pm-optout
 pm/
 pm/amplify/
 pm/lambda/
@@ -24803,7 +24743,7 @@ premium
 premium$
 premium-reports
 premium/$
-premium/http://folsominteriordesigners.com/robots.txt
+premium/http://s.w.org/robots.txt
 premiumsupport/iam/
 premiumsupport/knowledge-center/feedback-no/
 premiumsupport/knowledge-center/feedback-yes/
@@ -24817,6 +24757,7 @@ preserv/extranet
 press
 press$
 press-coverage/?offset=
+press-release
 press-this.php
 press/founders/
 press/leadership/
@@ -24883,7 +24824,7 @@ privacy/zoho-group.html
 private
 private
 private-promo
-private/http://upload.wikimedia.org/robots.txt
+private/http://abc.net.au/robots.txt
 private/wtrack
 pro
 pro-help/q
@@ -24937,7 +24878,7 @@ product-integrations/figma-for-microsoft-teams/$
 product-integrations/google-workspace/$
 product-integrations/zoom/$
 product-managers/$
-product-ratings/http://people.com/robots.txt
+product-ratings/http://wix.com/robots.txt
 product-reviews/B0069IY63Y
 product/*
 product/electrode/api/logger
@@ -25604,7 +25545,6 @@ pt-pt/
 pt-pt/lp$
 pt-pt/lp/contact-us
 pt-pt/lp/homepage$
-pt/
 pt/*
 pt/*?order=
 pt/*color=
@@ -26030,6 +25970,7 @@ removalrequest
 remove-excess-salt-from-nuts-by-shaking-them-in-a-paper-1704198119
 remove-favorite
 renders
+renewal-reminder-optout
 rent/guide
 rental-manager/?source=topnav&itc=postbutton_topnav
 rental-manager/?zpid=
@@ -26799,7 +26740,6 @@ ro-md/lp/contact-us
 ro-md/lp/homepage$
 ro-ro
 ro-ro/
-ro/
 ro/*
 ro/Download
 ro/android/collections
@@ -27027,6 +26967,7 @@ safety/?
 safety?
 safetycheck
 salary-explorer/api
+sales/always-be-closing-is-dead-how-to-always-be-helping-in-2015?hubs_content=blog.hubspot.com/sales/what-is-the-buyers-journey&hubs_content-cta=adapt%20their%20mindset%20from%20selling%20to%20helping
 sales/hubspot-sales-strategy-report?hubs_content=blog.hubspot.com%2Fsales%2Fupselling&hubs_content-cta=2024%20State%20of%20Sales%20Report
 salesImages/static-1.366
 salesImages/static-1.367
@@ -28163,7 +28104,6 @@ sk-sk/
 sk-sk/lp$
 sk-sk/lp/contact-us
 sk-sk/lp/homepage$
-sk/
 sk/*
 sk/Download
 sk/android/collections
@@ -28181,7 +28121,6 @@ skazki
 sketches
 sl-SI/$
 sl-si/
-sl/
 sl/*.html
 sl/*SellLikeItem
 sl/*bn_*?
@@ -28511,7 +28450,7 @@ sous-vide-your-own-excellent-cold-cuts-1839274016
 sp
 sp/2for1
 sp/3for2
-sp/http://google.ch/robots.txt
+sp/http://nypost.com/robots.txt
 sp=
 sp=0
 sp_url=
@@ -28830,6 +28769,7 @@ story/
 story/2014/03/20/ge-cfo-challenge-david-bartlett-amway/6653003
 story/advisory
 story/draft
+story/madison-square-garden-jim-dolan-surveillance-machine/?src
 story/nletter
 story/special/contributor-content
 story/sponsor-story
@@ -28879,7 +28819,6 @@ studioapi
 studioapi/wasabi
 studios
 stuff-your-quesadilla-with-fried-chicken-1849426275
-style
 style-guide
 style/beauty/hearstmagazines
 style/fashion/hearstmagazines
@@ -29088,7 +29027,6 @@ sv-se*/lp
 sv-se/
 sv-se/search
 sv-se/searchresults
-sv/
 sv/event/*/shoutbox
 sv/event/*/shoutbox?
 sv/features
@@ -29151,7 +29089,6 @@ switch-your-luggage-to-inline-skate-wheels-for-better-d-1788664054
 sydney-white
 syndicate
 syndication_cookie_sync
-synsearch
 system
 system/
 system/cron/cron.txt
@@ -29179,7 +29116,7 @@ tag
 tag-manager
 tag-manager-360
 tag/
-tag/*+http://journals.sagepub.com/robots.txt
+tag/*+http://digital-strategy.ec.europa.eu/robots.txt
 tag/*/page
 tag/credible
 tag/interaction-card
@@ -29256,6 +29193,7 @@ teachers/innovators/toolkit
 teachers/search/resources/?q=
 tealeaf
 tealium
+team/join
 teamplain/
 teams
 tech
@@ -30386,6 +30324,7 @@ templates/x-matrix-template/$
 templates/yearly-calendar-template/$
 temporary_marketing_proxy/*
 temptation-island
+ter-optout
 termini-e-condizioni
 termos-e-condicoes
 terms
@@ -30418,7 +30357,7 @@ test/diagnostic-tool
 test_community
 testfl
 testgpr
-testhttp://edition.cnn.com/robots.txt
+testhttp://moskva.stroi-podryad.ru/robots.txt
 testing
 testpage-forhomepage
 tests
@@ -30495,7 +30434,6 @@ th-th/ux-design-tool/$
 th-th/web-design/$
 th-th/web-development/$
 th-th/wireframe-tool/$
-th/
 th/*
 th/*/media/oembed
 th/Download
@@ -30657,6 +30595,7 @@ the-hassle-free-guide-to-ripping-your-blu-ray-collectio-5559007
 the-highlight$
 the-hitman-s-bodyguard
 the-holiday
+the-hustle/psychology-of-color?hubs_content=blog.hubspot.com/marketing/brand-colors&hubs_content-cta=color%20psychology
 the-lead-unsubscribe?search=
 the-least-obnoxious-ways-to-keep-in-touch-with-an-old-p-1850432196
 the-magnificent-seven
@@ -31023,6 +30962,7 @@ transcripts/419570939
 transcripts/470280334
 transcripts/480128005
 transcripts/830237502
+transfers
 transform-an-ikea-chair-frame-into-a-portable-computer-5900963
 transform-cake-mixes-by-folding-in-whipped-cream-1832363058
 transform-your-amazon-echo-into-a-white-noise-machine-w-1831133690
@@ -31351,6 +31291,7 @@ univercd/cc/td/doc
 universal-design-system/
 university
 unlink
+unlisted
 unlock-hidden-video-and-image-tools-with-this-url-hack-1548725145
 unsaved
 unsub
@@ -31784,7 +31725,6 @@ v0/google_drive/notify_change
 v0/users/*/coauthors
 v0/users/*/following
 v1
-v1/SocialMediaActivity/
 v1/alerts
 v1/api
 v1/browser-performance
@@ -31886,7 +31826,6 @@ vi
 vi-VN/$
 vi-vn/search
 vi-vn/searchresults
-vi/
 vi/android/collections
 vi/android/search
 vi/firefox/collections
@@ -32010,12 +31949,10 @@ vn
 vod
 voices/
 voir-emploi?
-vos-questions
 vote-review
 votre-europarl/
 voucher
 voyager/api
-voyages
 vp
 vp2
 vpBaselines
@@ -32044,6 +31981,8 @@ wall*?thread=
 wall*?with=
 wall-*?q=
 wallet
+wallpaper
+wallpapers
 want-to-contribute-to-lifehacker-1174273961
 wanted
 wap/*
@@ -32708,7 +32647,7 @@ wiki/Wikipedia%3AVandalismi_in_corso
 wiki/Wikipedia%3AVandalismusmeldung
 wiki/Wikipedia%3AVandalismusmeldung%2F
 wiki/Wikipedia%3AVermittlungsausschuss
-wiki/Wikipedia%3AVermittlungsausschuss%2Fhttp://sites.google.com/robots.txt
+wiki/Wikipedia%3AVermittlungsausschuss%2Fhttp://deezer.com/robots.txt
 wiki/Wikipedia%3AVotes_for_deletion
 wiki/Wikipedia%3AWikiProject_Deletion_sorting
 wiki/Wikipedia%3AWikiProject_Spam
@@ -32904,9 +32843,9 @@ wiki/Wikipedia_discusión:Solicitudes_de_verificación_de_usuarios
 wiki/Wikipedia_discusión:Supresores/Candidaturas
 wiki/Wikipedia_talk%3AAbuse_reports
 wiki/Wikipedia_talk%3AAbuse_response
-wiki/Wikipedia_talk%3AAdministrator_electionshttp://owasp.org/robots.txt
-wiki/Wikipedia_talk%3AAdministrator_electionshttp://plus.google.com/robots.txt
-wiki/Wikipedia_talk%3AAdministrator_electionshttp://producthunt.com/robots.txt
+wiki/Wikipedia_talk%3AAdministrator_electionshttp://engadget.com/robots.txt
+wiki/Wikipedia_talk%3AAdministrator_electionshttp://enterprisemarketingportal.google/robots.txt
+wiki/Wikipedia_talk%3AAdministrator_electionshttp://win.gs/robots.txt
 wiki/Wikipedia_talk%3AAdministrator_recall
 wiki/Wikipedia_talk%3AAdministrator_review
 wiki/Wikipedia_talk%3AAdministrators%27_noticeboard
@@ -33206,8 +33145,7 @@ wp-admin
 wp-admin/
 wp-admin/admin-ajax.php
 wp-admin/admin-ajax.php
-wp-admin/admin-ajax.phphttp://foodshuttle.org/robots.txt
-wp-admin/admin-ajax.phphttp://it.wikipedia.org/robots.txt
+wp-admin/admin-ajax.phphttp://state.gov/robots.txt
 wp-admin/load-scripts.php
 wp-admin/load-styles.php
 wp-adv
@@ -33419,7 +33357,7 @@ youre-probably-eating-goji-berries-all-wrong-1844002919
 youre-probably-using-too-many-paper-towels-1846764848
 youre-using-that-paper-toilet-seat-cover-wrong-1797949767
 youreurope/businessACC
-youreurope/businessDEV/http://zoho.com/robots.txt
+youreurope/businessDEV/http://europarl.europa.eu/robots.txt
 youreurope/citizensACC
 youreurope/citizensDEV
 yourtake
@@ -33492,8 +33430,6 @@ zh-CN/firefox/collections/mozilla
 zh-CN/firefox/collections/mozilla/$
 zh-CN/firefox/search
 zh-HK/$
-zh-Hans/
-zh-Hant/
 zh-TW/$
 zh-TW/android/collections
 zh-TW/android/search
@@ -33792,7 +33728,7 @@ zz-test
 404
 404
 404.html
-413gkwMT/http://nps.gov/robots.txt
+413gkwMT/http://sgtrains.com/robots.txt
 429.html
 500
 500
@@ -33837,9 +33773,9 @@ zz-test
 8601
 8614
 8618
-8940e9c10e1d26ea
 9742
 9744
+041974d46b333fa7
 1014943
 1060761
 3584794

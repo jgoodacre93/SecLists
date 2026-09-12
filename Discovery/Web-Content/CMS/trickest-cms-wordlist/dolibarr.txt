@@ -31,6 +31,7 @@ test/phpunit/FileUploadTest.php
 test/phpunit/SocieteTest.php
 test/phpunit/DiscountTest.php
 test/phpunit/CommonInvoiceTest.php
+test/phpunit/ModuleBuilderRightsSyncTest.php
 test/phpunit/WebservicesInvoicesTest.php
 test/phpunit/LesscTest.php
 test/phpunit/textiso.txt
@@ -42,6 +43,7 @@ test/phpunit/imap_header.txt
 test/phpunit/Functions2LibTest.php
 test/phpunit/AssetModelTest.php
 test/phpunit/WorkstationTest.php
+test/phpunit/PhpSessionInDbTest.php
 test/phpunit/MemoTest.php
 test/phpunit/FunctionsNumToWordTest.php
 test/phpunit/SecurityTest.php
@@ -52,6 +54,7 @@ test/phpunit/test.php
 test/phpunit/file_import_company_1.csv
 test/phpunit/ScriptsTest.php
 test/phpunit/EmailCollectorTest.php
+test/phpunit/AssetDepreciationTest.php
 test/phpunit/PricesTest.php
 test/phpunit/TvaTest.php
 test/phpunit/FormTest.php
@@ -7186,6 +7189,7 @@ htdocs/install/mysql/tables/llx_deliverydet_extrafields.sql
 htdocs/install/mysql/tables/llx_usergroup.sql
 htdocs/install/mysql/tables/llx_bank_record-bank.sql
 htdocs/install/mysql/tables/llx_categorie_propal-propal.sql
+htdocs/install/mysql/tables/llx_deletion_log.key.sql
 htdocs/install/mysql/tables/llx_onlinesignature.sql
 htdocs/install/mysql/tables/llx_propal_extrafields.key.sql
 htdocs/install/mysql/tables/llx_tva.sql
@@ -7266,7 +7270,6 @@ htdocs/install/mysql/tables/llx_mrp_production_extrafields-mrp.key.sql
 htdocs/install/mysql/tables/llx_categorie_lang.key.sql
 htdocs/install/mysql/tables/llx_societe_prices.sql
 htdocs/install/mysql/tables/llx_societe.key.sql
-htdocs/install/mysql/tables/llx_categorie_mo-mrp_mo.key.sql
 htdocs/install/mysql/tables/llx_hrm_job-hrm.sql
 htdocs/install/mysql/tables/llx_categorie_fournisseur.sql
 htdocs/install/mysql/tables/llx_c_country.key.sql
@@ -7369,6 +7372,7 @@ htdocs/install/mysql/tables/llx_bookmark.key.sql
 htdocs/install/mysql/tables/llx_c_currencies.sql
 htdocs/install/mysql/tables/llx_mailing-mailing.sql
 htdocs/install/mysql/tables/llx_categorie_fournisseur.key.sql
+htdocs/install/mysql/tables/llx_deletion_log.sql
 htdocs/install/mysql/tables/llx_c_exp_tax_range-expensereport.sql
 htdocs/install/mysql/tables/llx_links.key.sql
 htdocs/install/mysql/tables/llx_c_subtotals_titles-subtotals.key.sql
@@ -7458,7 +7462,6 @@ htdocs/install/mysql/tables/llx_c_email_senderprofile.sql
 htdocs/install/mysql/tables/llx_hrm_evaluation_extrafields-hrm.sql
 htdocs/install/mysql/tables/llx_holiday_logs.sql
 htdocs/install/mysql/tables/llx_c_paper_format.sql
-htdocs/install/mysql/tables/llx_categorie_mo-mrp_mo.sql
 htdocs/install/mysql/tables/llx_categorie_invoice-facture.sql
 htdocs/install/mysql/tables/llx_c_ziptown.key.sql
 htdocs/install/mysql/tables/llx_accounting_analytic_account-accounting.key.sql
@@ -7499,6 +7502,7 @@ htdocs/install/mysql/tables/llx_bank_account.key.sql
 htdocs/install/mysql/tables/llx_contratdet.sql
 htdocs/install/mysql/tables/llx_societe_commerciaux.sql
 htdocs/install/mysql/tables/llx_accounting_system.key.sql
+htdocs/install/mysql/tables/llx_categorie_mo-mrp.key.sql
 htdocs/install/mysql/tables/llx_asset_depreciation-asset.key.sql
 htdocs/install/mysql/tables/llx_propal.sql
 htdocs/install/mysql/tables/llx_c_tva.sql
@@ -7734,6 +7738,7 @@ htdocs/install/mysql/tables/llx_product_price_extrafields.key.sql
 htdocs/install/mysql/tables/llx_facture_fourn_rec_extrafields.sql
 htdocs/install/mysql/tables/llx_contratdet_extrafields.key.sql
 htdocs/install/mysql/tables/llx_opensurvey_user_studs-opensurvey.key.sql
+htdocs/install/mysql/tables/llx_session-disabled.key.sql
 htdocs/install/mysql/tables/llx_stocktransfer_stocktransfer_extrafields-stocktransfer.key.sql
 htdocs/install/mysql/tables/llx_reception_extrafields.sql
 htdocs/install/mysql/tables/llx_asset_depreciation-asset.sql
@@ -7813,6 +7818,7 @@ htdocs/install/mysql/tables/llx_knowledgemanagement_knowledgerecord_extrafields-
 htdocs/install/mysql/tables/llx_object_lang.sql
 htdocs/install/mysql/tables/llx_eventorganization_conferenceorboothattendee.sql
 htdocs/install/mysql/tables/llx_c_payment_term.sql
+htdocs/install/mysql/tables/llx_categorie_mo-mrp.sql
 htdocs/install/mysql/tables/llx_intracommreport-intracommreport.sql
 htdocs/install/mysql/migration/repair.sql
 htdocs/install/mysql/migration/9.0.0-10.0.0.sql
@@ -7896,6 +7902,7 @@ htdocs/product/admin/dynamic_prices.php
 htdocs/product/admin/product.php
 htdocs/product/admin/product_lot.php
 htdocs/product/inventory/ajax/searchfrombarcode.php
+htdocs/product/inventory/inventory_document.php
 htdocs/product/inventory/inventory.php
 htdocs/product/inventory/list.php
 htdocs/product/inventory/card.php
@@ -8244,6 +8251,7 @@ htdocs/core/modules/modApi.class.php
 htdocs/core/modules/modDynamicPrices.class.php
 htdocs/core/modules/modProduct.class.php
 htdocs/core/modules/modSupplierProposal.class.php
+htdocs/core/modules/fichinter/doc/pdf_helios.modules.php
 htdocs/core/modules/fichinter/doc/pdf_soleil.modules.php
 htdocs/core/modules/fichinter/mod_arctic.php
 htdocs/core/modules/fichinter/modules_fichinter.php
@@ -8328,6 +8336,11 @@ htdocs/core/modules/project/task/modules_task.php
 htdocs/core/modules/project/task/mod_task_simple.php
 htdocs/core/modules/project/mod_project_simple.php
 htdocs/core/modules/project/mod_project_universal.php
+htdocs/core/modules/inventory/doc/pdf_standard_inventory.modules.php
+htdocs/core/modules/inventory/mod_inventory_advanced.php
+htdocs/core/modules/inventory/modules_inventory.php
+htdocs/core/modules/inventory/mod_inventory_standard.php
+htdocs/core/modules/inventory/mod_inventory_leaf.php
 htdocs/core/modules/asset/doc/doc_generic_asset_odt.modules.php
 htdocs/core/modules/asset/doc/pdf_standard_asset.modules.php
 htdocs/core/modules/asset/mod_asset_standard.php
@@ -8642,6 +8655,7 @@ htdocs/core/boxes/box_fediverse.php
 htdocs/core/boxes/box_prospect.php
 htdocs/core/boxes/box_project.php
 htdocs/core/boxes/box_contracts.php
+htdocs/core/boxes/box_invoices_dispute.php
 htdocs/core/boxes/box_shipments.php
 htdocs/core/boxes/box_produits_alerte_stock.php
 htdocs/core/boxes/box_dolibarr_state_board.php
@@ -8860,6 +8874,7 @@ htdocs/core/lib/treeview.lib.php
 htdocs/core/lib/functions_ch.lib.php
 htdocs/core/lib/date.lib.php
 htdocs/core/lib/ftp.lib.php
+htdocs/core/lib/html.lib.php
 htdocs/core/lib/pdf.lib.php
 htdocs/core/lib/admin.lib.php
 htdocs/core/lib/json.lib.php
@@ -9039,6 +9054,7 @@ htdocs/admin/index.php
 htdocs/admin/workstation.php
 htdocs/admin/ldap_members_types.php
 htdocs/admin/perms.php
+htdocs/admin/inventory.php
 htdocs/admin/subtotals.php
 htdocs/admin/extrafields.php
 htdocs/admin/agenda_other.php
@@ -12314,6 +12330,9 @@ htdocs/ai/tools/reports.class.php
 htdocs/ai/tools/crud_objects.class.php
 htdocs/ai/tools/products.class.php
 htdocs/ai/tools/invoices.class.php
+htdocs/ai/tools/coffeemaker.class.php
+htdocs/ai/tools/api_bridge.class.php
+htdocs/ai/ajax/list_models.php
 htdocs/ai/ajax/generate_content.php
 htdocs/ai/js/ai_assistant.js
 htdocs/ai/js/ai.js
@@ -12555,7 +12574,11 @@ htdocs/modulebuilder/template/ChangeLog.md
 htdocs/modulebuilder/README.md
 htdocs/modulebuilder/admin/setup.php
 htdocs/modulebuilder/index.php
+htdocs/modulebuilder/class/RightsSyncService.class.php
+htdocs/modulebuilder/class/PermissionsBlock.class.php
+htdocs/modulebuilder/class/RightsSyncCommand.class.php
 htdocs/modulebuilder/class/NamingContractValidator.class.php
+htdocs/modulebuilder/class/SyncReport.class.php
 htdocs/modulebuilder/class/NamingContract.class.php
 htdocs/barcode/codeinit.php
 htdocs/barcode/printsheet.php
@@ -12624,6 +12647,7 @@ htdocs/website/websiteaccount_card.php
 htdocs/website/index.php
 htdocs/website/class/website.class.php
 htdocs/website/class/websitepage.class.php
+htdocs/website/class/api_websites.class.php
 htdocs/website/lib/websiteaccount.lib.php
 htdocs/website/lib/website.lib.php
 htdocs/waf.inc.php
@@ -13593,7 +13617,6 @@ dev/setup/fail2ban/jail.d/web-accesslog-limit404.conf
 dev/setup/fail2ban/jail.d/web-dolibarr-hackattempt.conf
 dev/setup/fail2ban/jail.d/web-accesslog-limit403.conf
 dev/setup/eclipse/PSR-12 [built-in].xml
-dev/setup/qodana/README.md
 dev/setup/codesniffer/README
 dev/setup/codesniffer/php.ini
 dev/setup/codesniffer/ruleset.xml
@@ -13603,6 +13626,7 @@ dev/setup/codesniffer/ruleset.dtd
 dev/setup/sonarqube/README.md
 dev/setup/logrotate.d/logrotate_dolibarr_log
 dev/setup/nginx/dolibarr
+dev/setup/vibe/README.md
 dev/setup/xdebug/README
 dev/setup/pre-commit/README.md
 dev/setup/multitail/.multitailrc
@@ -13671,6 +13695,7 @@ dev/build/doxygen/dolibarr-doxygen-filter.pl
 dev/build/doxygen/doxygen_header.html
 dev/build/patch/README
 dev/build/patch/buildpatch.sh
+dev/build/ci/build_required.sh
 dev/build/obs/README
 dev/build/pad/README
 dev/build/pad/DoliWamp.pml
